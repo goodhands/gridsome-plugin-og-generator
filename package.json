@@ -1,0 +1,26 @@
+{
+  "name": "gridsome-plugin-og-generator",
+  "version": "1.0.0",
+  "description": "A gridsome plugin to generate og images for blog posts",
+  "main": "gridsome.client.js",
+  "repository": {
+    "url": "https://github.com/goodhands/gridsome-plugin-og-generator",
+    "type": "git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "og",
+    "open",
+    "graph",
+    "blog",
+    "social",
+    "media"
+  ],
+  "author": "Samuel Olaegbe <olaegbesamuel@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "html-to-image": "^0.1.1"
+  }
+}
