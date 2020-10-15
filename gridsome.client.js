@@ -1,5 +1,3 @@
-import * as htmlToImage from 'html-to-image';
-
 export default function (Vue, context, { head }) {
     Vue.mixin({
         data() {
